@@ -1,4 +1,4 @@
-<?
+<?php
 $a = "day";
 $b = 26;
 $c = 98.99;
@@ -42,3 +42,4 @@ echo "variable constants = ".A. "<br>";
 var_dump($number);
 
 
+?>
